@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riska Novita Situmorang</h1>
-<h3 align="center"> Data Analyst!!</h3>
+<h3 align="center"> Welcome To My Sosmed!!</h3>
 
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/riskasitumorang/riskasitumorang.github.io)
