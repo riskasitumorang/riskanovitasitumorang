@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riska Novita Situmorang</h1>
 <h3 align="center"> Data Analyst!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="riska.jpg">
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/riskasitumorang/riskasitumorang.github.io)
 
